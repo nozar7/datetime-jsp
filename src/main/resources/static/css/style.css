@@ -1,0 +1,10 @@
+@charset "ISO-8859-1";
+
+h2.time-title {
+	color: green;
+}
+
+
+h2.date-title {
+	color: blue;
+}
